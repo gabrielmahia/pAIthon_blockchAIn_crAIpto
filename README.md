@@ -1,3 +1,3 @@
-# Learn Python by Building a Blockchain and Cryptocurrency [Video]
+# Learn Python by Building a Blockchain and Cryptocurrency
 Learning Python by Building a Blockchain & Cryptocurrency
 
